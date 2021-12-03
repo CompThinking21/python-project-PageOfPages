@@ -1,3 +1,5 @@
+import requests
+
 '''given a zipcode, this program returns contextual data on the area such as:
     - local transportation
     - local food and grocerery shops
